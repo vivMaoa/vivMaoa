@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milton</h1>
 <h3 align="center">A passionate frontend and student of Computer Science Engineering from Mexico</h3>
 
-- 🔭 I’m currently working on [a web page front end developing](https://github.com/vivMaoa/Curso-de-FrontEnd-foundations-Devf.io.git)
+- 🔭 I’m currently working on [a front end web page](https://github.com/vivMaoa/Curso-de-FrontEnd-foundations-Devf.io.git)
 
 - 🌱 I’m currently learning **Engineering and web development**
 
