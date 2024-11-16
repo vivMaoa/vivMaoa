@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a front end web page](https://github.com/vivMaoa/Curso-de-FrontEnd-foundations-Devf.io.git)
 
-- 🌱 I’m currently learning **Engineering and web development**
+- 🌱 I’m currently learning **Computer Science Engineering and web development**
 
 - 👯 I’m looking to collaborate on **anywhere**
 
